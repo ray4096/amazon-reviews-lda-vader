@@ -1,0 +1,6 @@
+dominant_topic,n_reviews,mean_compound,share_positive,share_neutral,share_negative,top_words,low_n
+3,1523,0.5579799080761655,0.8135259356533159,0.02232435981615233,0.16414970453053185,"album, cd, song, music, sound, love, best, fan, dvd, band",False
+0,3017,0.4120354325488896,0.7315213788531654,0.030162412993039442,0.23831620815379517,"book, read, story, author, reading, time, life, many, character, people",False
+2,968,0.3586473140495868,0.7035123966942148,0.047520661157024795,0.24896694214876033,"game, use, play, work, better, buy, need, time, problem, computer",False
+4,2809,0.297523175507298,0.655749377002492,0.04734781060875756,0.29690281238875044,"product, work, bought, use, time, used, amazon, buy, price, quality",False
+1,1682,0.2858760998810939,0.6581450653983353,0.026159334126040427,0.3156956004756243,"movie, film, time, see, watch, love, dvd, show, bad, first",False

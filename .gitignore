@@ -1,0 +1,35 @@
+# --- Data (large, re-downloadable) ---
+data/*.csv
+data/*.zip
+*.csv
+*.parquet
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Trained models / large artifacts ---
+*.model
+*.pkl
+*.npy
+
+# --- OS / editors ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Keep these placeholders / docs ---
+!results/*.csv
+!data/README.md
+!data/DATASET_README.txt
+
+# NLTK data (downloaded locally)
+nltk_data/
